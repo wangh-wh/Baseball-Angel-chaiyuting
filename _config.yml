@@ -1,12 +1,12 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: "/Girls-Coding-Day-Jekyll-blog-2"
+baseurl: "/Baseball-Angel-chaiyuting"
 
 # 网页的标题
-title: "Girls Coding Day"
+title: "强棒天使-柴雨婷的个人小站"
 # 网站的主标题
-name: "Girls Coding Day"
+name: "强棒天使-柴雨婷的陪伴日记"
 # 网站副标题
-description: "架起女性与编程的桥梁"
+description: "Accompany & Record my life"
 
 # 分页配置
 # 每页文章数量

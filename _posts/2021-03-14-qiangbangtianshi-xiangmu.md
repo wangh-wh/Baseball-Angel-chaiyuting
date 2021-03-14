@@ -25,6 +25,7 @@ image: assets/images/logo.jpg
 ---
 
 ## 获得荣誉
+>![zhanji](../assets/images/战绩.jpg)
 >![rongyu](../assets/images/rongyu.jpg)
 
 ---

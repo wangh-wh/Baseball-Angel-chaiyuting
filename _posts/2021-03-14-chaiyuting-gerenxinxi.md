@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "强棒天使-柴雨婷小记"
-background: assets/images/images.jpg
-image: assets/images/柴雨婷3.jpg
+background: "assets/images/images.jpg"
+image: "assets/images/柴雨婷3.jpg"
 featured: true
 ---
 
